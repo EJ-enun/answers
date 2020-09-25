@@ -1,0 +1,18 @@
+PARTY PLATFORM CONCEPTUALIZED
+
+Nigeria will only move forward with incredible co-ordination and impeccable planning. I want to build an app to run as a party platform where:
+
+1- likeminded young nigerians from across nigeria interested in change can link up, connect and build different state platforms.
+
+2- we can organize data on how many votes we need to win each region and as a whole, count the number of available votes in a region and match it up to the number of people we need to win said region.
+
+3- we can remind people to vote, connect people to polling booths closest to them, register them to vote and have them pay small stipends as part of this new party and MOU while being miles away from them, we can co-ordinate our campaign through this app the same way many group chats operate in Nigeria relative to BBNaija candidacy today. Collect data on voter intimidation or the faking of votes. We have more eyes on the ground.
+
+4- This is a new era of campaigning. We can pick leaders from our cohorts, hold live debates, create zoom debates, organize ourselves in a manner that is beffiting of a major nigerian party without ever having to step outside of the confines of our homes except to vote and work and observe that the electoral process is carried out legitimately. That way we cannot be oppressed while we fight for change.
+
+5- We can even plan to move to polling stations in sanctioned groups to negate voter intimidation and reduce overcrowding at polling booths due to too many people in a booth at the same time. 
+
+These features are pretty darn complex to visualize but i promise you that this can be realized. I am a data scientist and a social worker who dabbles in web development, i know how to use data to make informed decisions relating to group dynamics.  
+
+I know this is not unique but i want to take a unique branding approach to this and have the party infrastructure be electronic and standalone from any other system. I want people to identify with it on a different level and i think the intersection of my fields of expertise will help us find ways to engage and move people to believe and get out the vote. 
+
